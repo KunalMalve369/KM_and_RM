@@ -4,7 +4,7 @@
 //
 //  Created by Kunal Malve on 03/05/20.
 //  Copyright © 2020 Kunal Malve. All rights reserved.
-//
+// Comment is added for Git Demo >> git ignore
 
 import SwiftUI
 
